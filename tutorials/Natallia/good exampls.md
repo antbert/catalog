@@ -16,16 +16,6 @@ function fancyAlert(arg) {
 ```
 
 ```javascript
-```
-
-```javascript
 
 ```
 
-```javascript
-1
-```
-
-```javascript
- 1
-```
